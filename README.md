@@ -31,8 +31,11 @@ How do I run the app?
 - ` nodemon`
 
 / : hello world
+
 /data: server is visible (200)
 
 /bad :Something went wrong (404 error)
 
 /foo : "error": "Not Found" (500)
+
+![..](./lab1.PNG)
