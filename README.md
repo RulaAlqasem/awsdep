@@ -37,3 +37,5 @@ How do I run the app?
 /bad :Something went wrong (404 error)
 
 /foo : "error": "Not Found" (500)
+
+![..](./lab1.PNG)
