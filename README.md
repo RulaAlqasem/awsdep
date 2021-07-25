@@ -2,15 +2,11 @@
 
 deploy a web server using CI and CD and get used to the general process of building and deploying servers.
 
-[master deployed link ](https://rulaalqasem-server-deploy-prod.herokuapp.com/)
-
-[dev branch deployed link](https://rulaalqasem-server-deploy-dev.herokuapp.com/)
+[master deployed link ](http://deploypractice-env.eba-8renpvi2.us-east-1.elasticbeanstalk.com/)
 
 [action link](https://github.com/RulaAlqasem/server-deployment-practice/actions)
 
-[pull request link](https://github.com/RulaAlqasem/server-deployment-practice/pull/1)
-
-[repo link](https://github.com/RulaAlqasem/server-deployment-practice)
+[repo link](https://github.com/RulaAlqasem/awsdep)
 
 How do I install the app or library?
 
